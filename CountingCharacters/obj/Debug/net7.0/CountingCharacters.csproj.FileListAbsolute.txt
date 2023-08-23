@@ -1,0 +1,15 @@
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/bin/Debug/net7.0/CountingCharacters
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/bin/Debug/net7.0/CountingCharacters.deps.json
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/bin/Debug/net7.0/CountingCharacters.runtimeconfig.json
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/bin/Debug/net7.0/CountingCharacters.dll
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/bin/Debug/net7.0/CountingCharacters.pdb
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.csproj.AssemblyReference.cache
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.AssemblyInfoInputs.cache
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.AssemblyInfo.cs
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.csproj.CoreCompileInputs.cache
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.dll
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/refint/CountingCharacters.dll
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.pdb
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/CountingCharacters.genruntimeconfig.cache
+/Users/j.m.bock/Desktop/LC+/C#/ch3/CountingCharacters/CountingCharacters/obj/Debug/net7.0/ref/CountingCharacters.dll
